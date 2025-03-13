@@ -1,7 +1,7 @@
 # AI Trading Bot: Twitter-Based Crypto Trading on Aptos
 
 
-![Trading Bot]([https://user-images.githubusercontent.com/12345678/trading-bot-gif.gif](https://imgur.com/a/Wrd1Cc2))
+![Trading Bot]([https://imgur.com/qpuNRF0)
 
 [![Status](https://img.shields.io/badge/Status-Active-green?style=flat-square)]() 
 [![Blockchain](https://img.shields.io/badge/Blockchain-Aptos-blue?style=flat-square)]() 
