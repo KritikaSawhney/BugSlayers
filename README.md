@@ -102,7 +102,7 @@ npm start
 ---
 
 ## 📞 Contact
-- Email: [Your Email]
-- Follow us on Twitter: [Your Twitter Handle]
-- GitHub Repo: [https://github.com/yourusername/ai-trading-bot]
+- Email: kritiksawhney1010@gmail.com
+- Follow us on Twitter: https://x.com/kritikasawh1010?s=09
+- GitHub Repo: https://github.com/KritikaSawhney/BugSlayers.git
 
