@@ -25,14 +25,7 @@ AI Trading Bot is an advanced AI-driven trading bot that analyzes live Twitter d
 ---
 
 ## 🔍 How It Works
-```mermaid
-graph TD;
-  A[🔍 <b>Real-time Tweet Fetching</b>] --> B[🤖 <span style="color:#ffcc00;">AI Sentiment Analysis</span>];
-  B -->|🟢 <span style="color:#ffcc00;">Bullish (Buy)</span>| C[💰 <b>Buy Aptos Assets</b>];
-  B -->|🔴 <span style="color:#FF4136;">Bearish Sentiment</span>| D[📉 <span style="color:#FF4136;">Sell Assets</span>];
-  C --> E[✅ <span style="color:#008080;">Execute Trade on Aptos Blockchain</span> 🔄];
-  D --> E;
-```
+<img src="https://github.com/user-attachments/assets/88ae2d29-4052-4ccd-97fa-c93e15658f21" width=800 height =600></img>
 
 ### Step 1: Twitter Sentiment Analysis
 - Fetch real-time tweets from influencers using Twitter API (e.g., @ElonMusk, @APompliano).
