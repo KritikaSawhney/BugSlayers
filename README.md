@@ -1,6 +1,7 @@
 # 🚀 AptosMax – AI-Powered Crypto Trading Bot
 Among Top 10 Finalists at Google (25,000+ participants)
-![Alt Text](./"images readme"/kritikagoogle.png)
+![Alt Text](./images%20readme/kritikagoogle.png)
+
 
 
 ## 📌 Overview
