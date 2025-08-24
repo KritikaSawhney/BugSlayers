@@ -2,10 +2,6 @@
 Among Top 10 Finalists at Google (25,000+ participants)
 ![Alt text](images%20readme/kritikagoogle.jpg)
 
-
-
-
-
 ## 📌 Overview
 AptosMax is an AI-powered decentralized trading system designed for the Aptos blockchain. It leverages AI-driven sentiment analysis, real-time market predictions, and autonomous trading strategies to maximize profits with minimal risk.
 This project was showcased at HackwithIndia 2025, where our team, BugSlayers, secured a Top 10 Finalist spot at the Google Gurugram Grand Finale.
@@ -48,7 +44,7 @@ aptosmax/
 ├── scripts/        # Deployment & automation scripts
 └── README.md <br>
 
-![Alt Text](./images%20for%20readme/badge.png) <br> 
+![Alt text](images%20readme/badge.jpg)
 
 ## 🚀 Installation & Setup
 ### Prerequisites
@@ -95,12 +91,12 @@ npm start <br>
 
 - Top 10 Finalist at HackwithIndia 2025 (Google Gurugram) <br>
 
-![Alt Text](./images%20for%20readme/achivements.png) <br> 
+![Alt text](images%20readme/achivements.jpg) <br> 
 
 - Selected from 25,000+ participants across India <br>
 
 - Recognized for innovation in DeFi & AI-driven trading <br>
-![Alt Text](./images%20for%20readme/team.png) <br> 
+![Alt text](images%20readme/team.jpg) <br> 
 
 ## 👩‍💻 Team BugSlayers
 
