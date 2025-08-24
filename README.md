@@ -1,6 +1,7 @@
 # 🚀 AptosMax – AI-Powered Crypto Trading Bot
 Among Top 10 Finalists at Google (25,000+ participants)
-![Alt Text](./images%20readme/kritikagoogle.png) <br> 
+![Alt Text](./"images readme"/kritikagoogle.png)
+
 
 ## 📌 Overview
 AptosMax is an AI-powered decentralized trading system designed for the Aptos blockchain. It leverages AI-driven sentiment analysis, real-time market predictions, and autonomous trading strategies to maximize profits with minimal risk.
