@@ -1,5 +1,5 @@
 # 🚀 AptosMax – AI-Powered Crypto Trading Bot
-Among Top 10 Finalists at Google (25,000+ participants)
+Among Top 10 Finalists at Google (25,000+ participants) <br>
 ![Alt text](images%20readme/kritikagoogle.jpg)
 
 ## 📌 Overview
@@ -37,11 +37,11 @@ APIs & Integrations: Twitter API, Aptos SDK, Gemini AI API <br>
 
 ## 📂 Project Structure
 aptosmax/
-├── backend/        # Python API for AI predictions & trading logic
-├── contracts/      # Move smart contracts for trade execution
-├── frontend/       # React.js dashboard for users
-├── models/         # AI & ML models for sentiment and prediction
-├── scripts/        # Deployment & automation scripts
+├── backend/        # Python API for AI predictions & trading logic <br>
+├── contracts/      # Move smart contracts for trade execution <br>
+├── frontend/       # React.js dashboard for users <br> 
+├── models/         # AI & ML models for sentiment and prediction <br>
+├── scripts/        # Deployment & automation scripts <br>
 └── README.md <br>
 
 ![Alt text](images%20readme/badge.jpg)
