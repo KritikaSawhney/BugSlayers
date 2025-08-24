@@ -36,7 +36,7 @@ APIs & Integrations: Twitter API, Aptos SDK, Gemini AI API <br>
 - Portfolio Rebalancing : Algorithm adjusts holdings based on risk-reward ratio.
 
 ## 📂 Project Structure
-aptosmax/
+aptosmax/ <br>
 ├── backend/        # Python API for AI predictions & trading logic <br>
 ├── contracts/      # Move smart contracts for trade execution <br>
 ├── frontend/       # React.js dashboard for users <br> 
@@ -47,7 +47,7 @@ aptosmax/
 ![Alt text](images%20readme/badge.jpg)
 
 ## 🚀 Installation & Setup
-### Prerequisites
+## Prerequisites
 
 - Node.js & npm
 
@@ -58,7 +58,7 @@ aptosmax/
 - Twitter Developer Account (API keys)
 
 - Gemini AI API Key
-### Steps
+## Steps
 
 ### Clone the repository
 git clone https://github.com/your-username/aptosmax.git <br>
@@ -80,14 +80,14 @@ python app.py <br>
 cd ../frontend <br>
 npm start <br>
 
-🎯 Future Scope
+## 🎯 Future Scope
 
 - Integration with DEXs on Aptos for liquidity pooling
 - Cross-chain support for other blockchains
 - Advanced AI strategies for long-term portfolio management
 - Mobile App for on-the-go trading
 
-🏆 Achievements
+## 🏆 Achievements
 
 - Top 10 Finalist at HackwithIndia 2025 (Google Gurugram) <br>
 
