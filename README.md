@@ -1,4 +1,4 @@
-🚀 AptosMax – AI-Powered Crypto Trading Bot
+# 🚀 AptosMax – AI-Powered Crypto Trading Bot
 Among Top 10 Finalists at Google HackwithIndia (25,000+ participants)
 
 ## 📌 Overview
@@ -56,7 +56,8 @@ aptosmax/
 
 - Gemini AI API Key
 ### Steps
-- Clone the repository
+
+## Clone the repository
 git clone https://github.com/your-username/aptosmax.git <br>
 cd aptosmax <br>
 
